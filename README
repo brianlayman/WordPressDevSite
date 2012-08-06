@@ -1,0 +1,9 @@
+=== WordPress Dev Site ===
+Contributors: BrianLayman 
+Donate link: http://thecodecave.com/donate
+Tags: WordPress Development staging
+Requires at least: 2.5
+Tested up to: 3.4
+Stable tag: 1.0.0
+
+Allows the configuration of a staging or development site that can run on an unaltered copy of the live database.
